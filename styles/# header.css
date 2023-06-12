@@ -8,7 +8,7 @@
 }
 
 .cabeçalho{
-    background-color:var(--branco);
+    background-color: var(--branco);
     display:flex;
     justify-content:space-between;
     align-items: center;
@@ -37,7 +37,7 @@
   .lista-menu__titulo{
     color: var(--laranja);
   }
-  .lista-menu__link{
+  .lista-menu__item{
     padding: lem;
     background-color: var(--branco);
   }
