@@ -48,8 +48,18 @@
   -webkit-text-fill-color: transparent;
   background-clip: text;
   text-transform: uppercase;
-}
-   
+  }
+   .lista-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    width: 60vw;
+   }
+   .lista-menu__item,
+   .lista-menu__link {
+    padding: 1em;
+    background-color: var(--branco);
+   }
 
 
  
